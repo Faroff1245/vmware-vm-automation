@@ -11,9 +11,9 @@ Set-PowerCLIConfiguration `
     -Confirm:$false
 
 # vSphere / vCenter details
-$vCenter = "192.168.22.72"
-$username = "kc@esxi.crp"
-$password = "vhtv!HcY!wqm9q4%H!q*"
+$vCenter = "0.0.0.0"
+$username = "your_username"
+$password = "your_password"
 
 Write-Host ""
 Write-Host "Connecting to vSphere..." -ForegroundColor Cyan
