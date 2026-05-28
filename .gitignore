@@ -1,0 +1,17 @@
+# Logs
+logs/
+
+# Credentials
+config/credentials.ps1
+config/*.cred
+
+# PowerShell temp
+*.log
+*.tmp
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
