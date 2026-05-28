@@ -13,7 +13,7 @@ Set-PowerCLIConfiguration `
 # vSphere Connection
 # ==========================================
 
-$vCenter = "192.168.22.72"
+$vCenter = "0.0.0.0"
 $username = "your_username_here"
 $password = "your_password_here"
 
